@@ -58,3 +58,6 @@ You’re done!
 
 ![](./VIP_005.jpg)
 
+## Licensing information
+This tutorial is licensed under the Creative Commons Zero v1 (CC0 1.0) Universal license.
+
