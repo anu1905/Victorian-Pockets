@@ -5,7 +5,7 @@ Correspondence email: anu@duck.com
 
 Website: www.anuradhareddy.com
 
-_Disclaimer: This is my modern take on Victorian pockets. This how-to guide does not provide exact measurements for the construction (because I measured it on myself). You can download the pocket pattern from the project page._  
+_Disclaimer: This is my modern take on Victorian pockets. This how-to guide does not provide exact measurements for the construction (because I measured it on myself). You can download the pocket pattern from the project files._  
 
 ## Step 1: Assemble the parts
 
