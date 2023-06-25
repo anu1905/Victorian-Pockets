@@ -15,6 +15,8 @@ Cut out a long stretch of fabric for the waistband, measuring approximately 2.5 
 
 You will also need velcro for the waistband and bias binding tape [or a ribbon] for covering the raw edge around the front pocket hole. 
 
+![](./VIP_001.jpg)
+
 ## Step 2: Sew the pockets
 
 With the right sides facing each other, stitch together the pockets’ front and back sides using a regular line stitch. Leave a gap for the pocket hole. 
@@ -23,7 +25,9 @@ Turn the pockets inside out.
 
 Take your bias binding tape and open it flat over the front-facing pocket hole (use pins to hold it in place) and sew along the edge using a back stitch.  
 
-Flip the remaining tape to the back side of the  pocket, fold it in and secure it using an invisible whip stitch.  
+Flip the remaining tape to the back side of the  pocket, fold it in and secure it using an invisible whip stitch. 
+
+![](./VIP_002.jpg)
 
 ## Step 3: Create the waistband 
 
@@ -34,11 +38,15 @@ adjust accordingly).
 
 Place the pockets right-side up below the waistband as shown. Double-check that you are happy with the  placement by pinning the waistband and pockets on yourself. Top stitch over both pockets.
 
+![](./VIP_003.jpg)
+
 ## Step 4: Fold the waistband 
 
 When the waistband is properly folded and laid flat, the velcro’s hook side will be on the front of the waistband and the loop side on the back. 
 
 Note: The waistband will wrap around you so that both sides of the velcro will face each other.  
+
+![](./VIP_004.jpg)
 
 ## Step 5: Finishing!
 
@@ -46,5 +54,7 @@ Open up your waistband and fold it again from the backside. Stitch along an L-sh
 
 Top stitch along the entire waistband from one end to the other catching the pockets again. 
 
-You’re done!        
+You’re done!       
+
+![](./VIP_005.jpg)
 
